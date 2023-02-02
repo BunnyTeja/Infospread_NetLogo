@@ -15,7 +15,7 @@
 4. Now select the number of ticks using the slider.
 5. Click on Go.
 
-##Output Files .
+## Output Files 
 
 1. Output Logs will be generated in the same directory
 2. We are tracking the following output log files.
