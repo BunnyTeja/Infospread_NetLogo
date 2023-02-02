@@ -1,0 +1,7 @@
+agent-type,agent-id,stance?,topic-id,tick
+topics,ID-136,0,topic-1
+topics,ID-137,0,topic-2
+topics,ID-136,0,topic-1,square,1
+topics,ID-137,0,topic-2,square,1
+topics,ID-136,0,topic-1,square,2
+topics,ID-137,0,topic-2,square,2
