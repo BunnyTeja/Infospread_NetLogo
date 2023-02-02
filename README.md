@@ -15,6 +15,13 @@
 4. Now select the number of ticks using the slider.
 5. Click on Go.
 
-##Output Files will be generated in the same directory.
+##Output Files .
 
-1. 
+1. Output Logs will be generated in the same directory
+2. We are tracking the following output log files.
+  agent_tick1
+  Track-Triads-tick1
+  Information-Actions-tick1
+  Identity-Actions-tick1
+3. Each file will be named based on the tick at which it is generated.
+  
