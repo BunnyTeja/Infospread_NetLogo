@@ -199,7 +199,7 @@ set data csv:from-row file-read-line
 create-turtles 1 [
   set shape "circle"
   set size  0.3
-  set color blue
+  set color yellow
   set agent-ID item 0 data
   let xcor1 random-xcor
   let ycor1 random-ycor
@@ -244,7 +244,7 @@ create-turtles 1 [
  set EU item 12 data
  set NATODonovia item 13 data
  set InformationDisseminationAgents item 14 data
- set TriadStackID word "TS-" item 0 data
+ ;set TriadStackID word "TS-" item 0 data
  set AdditionalAttribute item 15 data
 
 ]
@@ -605,6 +605,7 @@ to setup-agent
 if nb-basic-agents >=  nb-information-diss-agents + nb-spokesperson-agents
 [create-nb-basic-agents
   set_traid_stack
+  create-nb-donovian-agents
   create-nb-spokesperson-agents
   create-nb-information-diss-agents
 
@@ -3147,7 +3148,7 @@ nb-donovian-agents
 nb-donovian-agents
 0
 100
-0.0
+2.0
 1
 1
 NIL
