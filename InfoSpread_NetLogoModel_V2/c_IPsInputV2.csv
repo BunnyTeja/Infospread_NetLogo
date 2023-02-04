@@ -1,0 +1,19 @@
+agent-id,Type,Document ID,Information Source ID,Topic ID,IP-id,Satnce
+IP-ID-1,IPs,7750,1,lithuania_topic_1,IP-1,-3
+IP-ID-2,IPs,4143,1,lithuania_topic_3,IP-2,2.33
+IP-ID-3,IPs,4143,1,lithuania_topic_3,IP-3,3
+IP-ID-4,IPs,4143,1,lithuania_topic_3,IP-4,3
+IP-ID-5,IPs,7547,1,lithuania_topic_4,IP-5,3
+IP-ID-6,IPs,7547,1,lithuania_topic_4,IP-6,-3
+IP-ID-7,IPs,4582,1,lithuania_topic_5,IP-7,3
+IP-ID-8,IPs,4582,1,lithuania_topic_5,IP-8,-2.33
+IP-ID-9,IPs,4582,1,lithuania_topic_5,IP-9,3
+IP-ID-10,IPs,4582,1,lithuania_topic_5,IP-10,-3
+IP-ID-11,IPs,4582,1,lithuania_topic_5,IP-11,2.5
+IP-ID-12,IPs,4582,1,lithuania_topic_5,IP-12,3
+IP-ID-13,IPs,4582,1,lithuania_topic_5,IP-13,2.25
+IP-ID-14,IPs,4582,1,lithuania_topic_5,IP-14,-2.25
+IP-ID-15,IPs,0,1,Persec,IP-15,3
+IP-ID-16,IPs,0,1,Oil,IP-16,3
+IP-ID-17,IPs,0,1,Trade,IP-17,3
+

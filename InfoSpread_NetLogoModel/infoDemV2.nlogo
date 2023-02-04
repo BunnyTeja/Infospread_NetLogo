@@ -178,6 +178,12 @@ clear-all
 end
 
 
+
+
+
+
+
+
 to create-nb-basic-agents
 file-close-all ; close all open files
 
